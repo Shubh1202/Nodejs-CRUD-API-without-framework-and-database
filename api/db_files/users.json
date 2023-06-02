@@ -1,0 +1,13 @@
+[
+     {
+          "id": 1,
+          "name": "shubham",
+          "phone": "9807272530",
+          "email": "shubham@xsinfosol.com",
+          "pass": "123456",
+          "otp": 342629,
+          "otp_status": 0,
+          "user_status": 0,
+          "login_status": 0
+     }
+]
